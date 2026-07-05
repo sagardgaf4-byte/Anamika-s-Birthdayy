@@ -242,15 +242,7 @@ Preparing a Special Surprise... 💖
 📸 Beautiful Memories
 </h2>
 <div class="gallery">
-<img src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=400" alt="Memory 1">
-<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400" alt="Memory 2">
-<img src="https://images.unsplash.com/photo-1516874150951-faeb2853a146?w=400" alt="Memory 3">
-<img src="https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=400" alt="Memory 4">
-<img src="https://images.unsplash.com/photo-1511379938547-c1f69b13d835?w=400" alt="Memory 5">
-<img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400" alt="Memory 6">
-<img src="https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=400" alt="Memory 7">
-<img src="https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=400" alt="Memory 8">
-<img src="https://images.unsplash.com/photo-1514632923736-6d29dd01d977?w=400" alt="Memory 9">
+<img src="IMG-20260618-WA0037.jpg" alt="Memory 1">
 </div>
 </section>
 
